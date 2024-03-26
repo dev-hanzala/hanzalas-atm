@@ -4,6 +4,12 @@
   "description": "A simple cli script allowing you to withdraw and check your balance.",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "hanzala-atm": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
