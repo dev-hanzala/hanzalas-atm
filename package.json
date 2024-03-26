@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple cli script allowing you to withdraw and check your balance.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dev-hanzala/hanzalas-atm/issues"
   },
-  "homepage": "https://github.com/dev-hanzala/hanzalas-atm#readme"
+  "homepage": "https://github.com/dev-hanzala/hanzalas-atm#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
 }
