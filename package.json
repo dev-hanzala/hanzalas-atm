@@ -19,5 +19,8 @@
   "homepage": "https://github.com/dev-hanzala/hanzalas-atm#readme",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
   }
 }
