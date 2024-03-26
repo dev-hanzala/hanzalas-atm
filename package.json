@@ -1,0 +1,19 @@
+{
+  "name": "hanzalas-atm",
+  "version": "1.0.0",
+  "description": "A simple cli script allowing you to withdraw and check your balance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-hanzala/hanzalas-atm.git"
+  },
+  "author": "dev-hanzala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-hanzala/hanzalas-atm/issues"
+  },
+  "homepage": "https://github.com/dev-hanzala/hanzalas-atm#readme"
+}
